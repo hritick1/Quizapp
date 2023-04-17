@@ -1,0 +1,16 @@
+.title{
+text-transform: uppercase;
+font-size: 7vw;
+cursor:pointer;
+color: #0275d8;
+}
+.header{
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+}
+.divider{
+margin: 10px;
+width: 100%;
+background-color: grey;
+}
